@@ -1,0 +1,5 @@
+Schedule and deliverable:
+- Draft enemy attacks code (no AI) - Tue 9am (estimate: 1hr)
+- Tracking player combos (input) - Tue 4pm (estimate: 4hrs)
+- Mark mistakes as -1 to life - Tue 5pm (estimate 1hr)
+- Stop enemy from ruining combos that are nearly complete, too often - Tue 9pm (estimate: 2hr)

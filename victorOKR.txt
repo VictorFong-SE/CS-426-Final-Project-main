@@ -1,0 +1,9 @@
+Victor Fong
+
+Schedule and Deliverable
+- Design UI with buttons -- Tues by 11:59PM (30 min)
+- WASD Movement -- Tues by 11:59PM (30 min)
+- Mouselook -- Tues by 11:59PM (1 hr)
+- When enemy is seeking, do seek steering behavior -- Wed by 11:59AM (3 hr)
+- Only 1 enemy attacking at a time -- Wed by 11:59AM (30 min)
+- Only 2 enemies seek, others stay put -- Wed by 11:59AM (30 min)
